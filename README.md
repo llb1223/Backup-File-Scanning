@@ -2,6 +2,7 @@
 启动后跑同系统或者同cms的站点，看看是否能得到源码。
 推荐fofa查询资产语句：
 "iis" && title="系统" 
+可以多让AI给你生成语句
 点击即可运行
 使用效果：
 <img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/d7efa046-cc4c-4524-8c31-4e3b2357f4b8" />
